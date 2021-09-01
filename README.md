@@ -1,4 +1,4 @@
-# mapbox-gl-draw-circle
+# mss-mapbox-gl-draw-circle
 
 Adds support for drawing and editing a circle feature using [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) library.
 
